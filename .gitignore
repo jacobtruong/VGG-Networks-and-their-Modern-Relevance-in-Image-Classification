@@ -1,0 +1,4 @@
+# Ignore all .pth files
+*.pth
+final_data.zip
+Inference Testing/test_data.zip
